@@ -1,6 +1,6 @@
 # batch-gradient-descent-house-price
 ---
-House Price Prediction using Batch Gradient Descent
+## House Price Prediction using Batch Gradient Descent ##
 
 ## Overview ##
 
