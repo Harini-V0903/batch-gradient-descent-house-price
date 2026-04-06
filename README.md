@@ -4,7 +4,9 @@ House Price Prediction using Batch Gradient Descent
 
 ## Overview ##
 
-    This project implements Batch Gradient Descent from scratch to predict house prices using numerical input data. It focuses on understanding how a machine learning model learns by iteratively updating weights and bias to minimize error. The project also includes a Streamlit web application for real-time predictions.
+    This project implements Batch Gradient Descent from scratch to predict house prices using numerical input data. 
+    It focuses on understanding how a machine learning model learns by iteratively updating weights and bias to minimize error. 
+    The project also includes a Streamlit web application for real-time predictions.
 
 ---
 
